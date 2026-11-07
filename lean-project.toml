@@ -1,0 +1,9 @@
+[project]
+name = "sentinela-rf"
+version = "0.1.0"
+
+[mathlib]
+directory = "C:/Users/Euzebio/.lean/mathlib4"
+
+[dependencies]
+lean = "4.15"
