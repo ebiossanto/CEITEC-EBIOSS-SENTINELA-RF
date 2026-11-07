@@ -102,10 +102,11 @@ python decoder.py 0x021          # decodifica uma síndrome (ex.: S1 sozinho)
 | `verify_bch.py` | Constrói GF(32), H, H_s e verifica todas as propriedades |
 | `decoder.py` | Decodificador de síndrome com autoteste |
 | `README.md` | Este documento |
+| `LICENSE` | Licença MIT |
 
 ## Licença
 
-A definir pelo autor.
+MIT License. Ver arquivo `LICENSE`.
 
 ## Citação
 
