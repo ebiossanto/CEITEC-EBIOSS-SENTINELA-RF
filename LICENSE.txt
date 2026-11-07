@@ -1,0 +1,120 @@
+=================================================================
+                   CEITEC SENTINELA-RF LICENSE
+=================================================================
+
+This license governs the use of the SENTINELA-RF project source code,
+mathematical frameworks, and associated documentation (the "Software").
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+-----------
+- "Software" includes all source code, mathematical proofs, algorithms,
+  syndrome tables, and documentation contained in this repository.
+- "Academic Use" means use in research, education, non-commercial
+  development, or evaluation purposes.
+- "Commercial Use" means any use of the Software in a product,
+  service, or business operation that generates revenue, including
+  but not limited to: sale, licensing, deployment in commercial
+  RFID systems, integration into commercial chipsets, or any
+  exploitation for profit.
+- "CEITEC" = Centro de Excelência em Tecnologia Eletrônica e
+  Microeletrônica, the Brazilian national research institution
+  developing this technology.
+- "Licensee" = any party using, modifying, or distributing the Software.
+
+2. GRANT OF RIGHTS
+---------------
+2.1 Academic Use: 
+   - Free to use, modify, and redistribute the Software for Academic Use.
+   - No royalties or fees required for Academic Use.
+   - Modified versions must retain this License notice.
+
+2.2 Commercial Use:
+   - NOT permitted without prior written authorization from CEITEC.
+   - Commercial Use requires a separate Commercial License Agreement.
+   - Upon Commercial License execution, Licensee must pay a royalty
+     of 5% (five percent) of net revenue generated from products
+     incorporating the SENTINELA-RF technology.
+   - Minimum annual royalty: USD 10,000 (ten thousand dollars).
+   - License term: 10 (ten) years from effective date, with
+     automatic renewal unless terminated by either party.
+
+3. RESTRICTIONS
+-----------
+3.1 The Software may not be used for developing competing RFID
+    technologies or systems that bypass national technology
+    sovereignty protections.
+3.2 Reverse engineering, decompilation, or disassembly of the
+    Software is prohibited except as expressly permitted by
+    applicable law.
+3.3 The SENTINELA-RF name and logos may not be used to endorse
+    or promote derived products without prior written consent.
+3.4 Distribution of the Software in source code form must
+    include this License notice and the original copyright notice.
+
+4. OWNERSHIP
+------
+4.1 All intellectual property rights in the Software,
+    including but not limited to: BCH code constructions,
+    syndrome computation algorithms, Lean 4 formalizations,
+    syndrome tables, and decoder implementations, 
+    remain the property of CEITEC.
+4.2 Licensee acquires only a license, not title or ownership.
+4.3 National technology provisions: The Software embodies
+    Brazilian national technology developed with public funding.
+    Restrictions apply to prevent technology leakage to foreign
+    entities without CEITEC approval.
+
+5. DISCLAIMER OF WARRANTY
+-------------------
+5.1 The Software is provided "AS IS" without warranty of any kind,
+    either expressed or implied, including but not limited to
+    the implied warranties of merchantability and fitness for a
+    particular purpose.
+5.2 CEITEC shall not be liable for any direct, indirect,
+    incidental, special, exemplary, or consequential damages
+    arising out of the use or inability to use the Software.
+
+6. LIMITATION OF LIABILITY
+-------------------
+6.1 To the maximum extent permitted by applicable law, CEITEC's
+    total liability for any claim related to this Software shall
+    not exceed the fees paid by the Licensee under this License.
+6.2 CEITEC shall not be liable for any loss of business, loss of
+    data, or any financial consequential damages.
+
+7. TERMINATION
+--------
+7.1 This License is effective until terminated. CEITEC may terminate
+    this License at any time if Licensee breaches any term and fails
+    to cure such breach within thirty (30) days of notice.
+7.2 Upon termination, Licensee must cease all use, modification,
+    distribution, or integration of the Software and certify in
+    writing such cessation.
+7.3 Upon termination for Commercial Use, Licensee must either:
+    a) Cease all commercial exploitation of the Software, or
+    b) Purchase a new Commercial License on revised terms.
+
+8. GOVERNING LAW
+--------
+8.1 This License shall be governed by the laws of Brazil
+    (Estatuto da Propriedade Industrial, Código Civil).
+8.2 Disputes shall be resolved in the courts of the State of
+    São Paulo, Brazil.
+8.3 If any provision of this License is held to be invalid or
+    unenforceable, the remaining provisions will continue in full
+    force and effect.
+
+=================================================================
+                  FOR COMMERCIAL LICENSING INQUIRIES
+=================================================================
+Please contact:
+CEITEC - Centro de Excelência em Tecnologia Eletrônica e Microeletrônica
+Email: licensing@ceitec.gov.br
+Website: https://ceitec.gov.br
+
+Para discutir licenciamento comercial, solicitar demonstração
+ou negociar termos alternativos, entrar em contato diretamente
+com a área de transferência de tecnologia da CEITEC.
+=================================================================
